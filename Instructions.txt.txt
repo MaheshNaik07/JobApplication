@@ -1,0 +1,2 @@
+Install below Nuget Packages:EntityFrameworkCore.SqlServer & EntityFrameworkCore.Tools.
+Goto Package Manager Console & Run Update-Migrations.This will create DemoDB.
